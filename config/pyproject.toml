@@ -1,0 +1,16 @@
+[tool.uv]
+dependencies = [
+  'beautifulsoup4',
+  'highlight-text',
+  'ipywidgets',
+  'jupyterlab',
+  'matplotlib',
+  'numpy',
+  'openpyxl',
+  'pandas',
+  'pyarrow',
+  'pycountry-convert',
+  'scikit-learn',
+  'scipy',
+  'statsmodels'
+]

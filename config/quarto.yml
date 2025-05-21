@@ -1,0 +1,6 @@
+project:
+  type: website
+  output-dir: ../05_publish/html
+  preview:
+    browser: true
+    watch-inputs: true

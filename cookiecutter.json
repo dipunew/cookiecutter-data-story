@@ -1,0 +1,5 @@
+{
+  "project_name": "crude_price_update",
+  "description": "Daily India petrol price tracker",
+  "beat": "economy"
+}
